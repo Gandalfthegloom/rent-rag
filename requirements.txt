@@ -1,0 +1,22 @@
+# Core LangChain packages
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+
+# Vector stores
+chromadb
+faiss-cpu   # optional, only if you want FAISS instead of Chroma
+
+# Embeddings
+sentence-transformers   # includes all-MiniLM-L6-v2 and similar models
+transformers
+torch                   # required for sentence-transformers
+
+# PDF parsing
+pypdf
+
+# pygpt4all -> llm model
+pygpt4all
+gpt4all
