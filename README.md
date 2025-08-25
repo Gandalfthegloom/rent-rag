@@ -35,7 +35,7 @@ Recommended packages in `requirements.txt`:
 Once requirements are installed:
 
 ```bash
-python main.py
+python rag-pipeline.py
 ```
 
 This will:
