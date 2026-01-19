@@ -68,10 +68,3 @@ project/
 │── README.md              # This file
 ```
 
----
-
-## ✅ Done!
-You now have a **local, private RAG system** for Toronto rent and insurance questions.
-
-Ask away 🚀
-
